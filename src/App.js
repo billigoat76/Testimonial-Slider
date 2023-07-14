@@ -9,6 +9,7 @@ const App = () => {
         <div className=" bg-violet-400 h-[4px] w-1/5 mt-1 mx-auto "></div>
         <Testimonials reviews={reviews}/>
       </div>
+      
     </div>
   );
 };
